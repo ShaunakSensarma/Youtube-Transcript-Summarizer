@@ -11,7 +11,7 @@ This project will give us an opportunity to have hands-on experience with state 
 
 **High-Level Approach**
 
-• Get transcripts/subtitles for a given YouTube video Id using a Python API.
+• Get transcripts/subtitles for a given YouTube video Id using a Python API.<br>
 • Perform text summarization on obtained transcripts using HuggingFace transformers.
 • Build a Flask backend REST API to expose the summarization service to the client.
 • Develop a chrome extension which will utilize the backend API to display summarized text to the user.
