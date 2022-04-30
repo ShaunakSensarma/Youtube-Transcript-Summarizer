@@ -1,0 +1,8 @@
+**Requirements**
+
+• Create a new virtual environment with pip installed which will act as an isolated location (a directory) where everything resides.<br>
+• Activate the newly formed virtual environment and install the following dependencies using pip:-<br>
+- Flask<br>
+- youtube_transcript_api<br>
+- transformers[torch]<br>
+• Execute pip freeze and redirect the output to the requirements.txt file. This requirements.txt file is used for specifying what python packages are required to run the project.
